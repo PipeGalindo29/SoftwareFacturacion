@@ -1,0 +1,11 @@
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Negocio.dll
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Negocio.pdb
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Entidades.dll
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\bin\Debug\Sol_PuntoVenta.Entidades.pdb
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.AssemblyReference.cache
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.CopyComplete
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.dll
+C:\Users\pipeg\OneDrive\Escritorio\Software Facturacion\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.pdb

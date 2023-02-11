@@ -1,0 +1,6 @@
+Descripcion_pr: COCA COLA 1/2 LITRO x UNIDADES
+Preciounitario_pr: 2,00
+Codigo_pr: 2
+Impresora: BAR
+
+

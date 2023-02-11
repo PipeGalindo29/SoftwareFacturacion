@@ -1,0 +1,66 @@
+Descripcion_pr: Banquete Marino Personal x UNIDADES
+Preciounitario_pr: 49,00
+Codigo_pr: 8
+Impresora: COCINA
+
+
+Descripcion_pr: Banquete Marino Personal x UNIDADES
+Preciounitario_pr: 49,00
+Codigo_pr: 8
+Impresora: COCINA
+
+
+Descripcion_pr: Banquete Marino Personal x UNIDADES
+Preciounitario_pr: 49,00
+Codigo_pr: 8
+Impresora: COCINA
+
+
+Descripcion_pr: Vino INTIPALKA Malbec Botella x UNIDADES
+Preciounitario_pr: 26,90
+Codigo_pr: 5
+Impresora: BAR
+
+
+Descripcion_pr: Vino INTIPALKA Malbec Botella x UNIDADES
+Preciounitario_pr: 26,90
+Codigo_pr: 5
+Impresora: BAR
+
+
+Descripcion_pr: Vino TABERNERO Borgoña Botella x UNIDADES
+Preciounitario_pr: 18,50
+Codigo_pr: 4
+Impresora: BAR
+
+
+Descripcion_pr: Vino TABERNERO Borgoña Botella x UNIDADES
+Preciounitario_pr: 18,50
+Codigo_pr: 4
+Impresora: BAR
+
+
+Descripcion_pr: Vino TABERNERO Borgoña Botella x UNIDADES
+Preciounitario_pr: 18,50
+Codigo_pr: 4
+Impresora: BAR
+
+
+Descripcion_pr: Banquete Marino Personal x UNIDADES
+Preciounitario_pr: 49,00
+Codigo_pr: 8
+Impresora: COCINA
+
+
+Descripcion_pr: Causa de Pulpa de Cangrejo x UNIDADES
+Preciounitario_pr: 22,00
+Codigo_pr: 9
+Impresora: COCINA
+
+
+Descripcion_pr: CEVICHE PERUANO 1UN x UNIDADES
+Preciounitario_pr: 18,00
+Codigo_pr: 3
+Impresora: COCINA
+
+
